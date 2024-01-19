@@ -1,0 +1,274 @@
+
+
+
+.navbar-left{
+    display: flex;
+    margin-top: 30px;
+}
+.navbar-left button{
+    border: none;
+    background-color: white;
+}
+.border-one{
+    height: 23px;
+    width: 1px;
+    border: 2px solid grey;
+}
+.navbar-right .icon-one{
+    border-radius: 25px;
+    margin-top: 30px;
+    color: #d5375c;
+    height: 35px;
+    font-size: 27px;
+    width: 35px;
+    border: 1px solid #d5375c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+}
+.navbar-right{
+    display: flex;
+}
+.icon-two{
+ margin-left: 20px;
+ margin-top: 30px;
+ font-size: 27px;
+ height: 35px;
+ width: 55px;
+ color: #d5375c;
+ border-radius: 25px;
+ border: 1px solid #d5375c;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.border-two{
+    margin-left: 10px;
+    margin-top: 20px;
+    height: 50px;
+    width: 1px;
+    border: 2px solid #d5375c;
+}
+.lang{
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 35px;
+    font-size: 27px;
+    width: 55px;
+    border: 1px solid #d5375c;
+    color: #d5375c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slide-nav-left{
+    margin-top: 20px;
+    display: flex;
+}
+.slide-nav-left ul{
+ list-style: none;
+ display: flex; 
+
+}
+.slide-nav-left ul li{
+    margin-left: 16px;
+}
+.slide-nav-left ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.slide-nav-left img{
+    height: 50px;
+    width: 100px;
+}
+
+#slide{
+  height: 450px;
+  background: url(../image/connect-eSIM-desktop.png);
+  background-position: center;
+}
+.icon-three{
+    color: #d5375c;
+    border-radius: 25px;
+    margin-top: 10px;
+    height: 40px;
+    font-size: 17px;
+    width: 40px;
+    border: 1px solid #d5375c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.slide-nav-right{
+    
+    display: flex;
+}
+.slide-nav-right .more{
+    margin-left: 20px;
+    color: #d5375c;
+    border-radius: 25px;
+    margin-top: 10px;
+    height: 40px;
+    font-size: 10px;
+    width: 200px;
+    border: 1px solid #d5375c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.slide-main-left{
+    margin-top: 120px;
+}
+.slide-main-left .text h2{
+  font-weight: 1000;
+  color: white;
+
+}
+.slide-main-left .text button{
+  height: 50px;
+  font-size: 22px;
+  font-weight: 380;
+  border-radius: 18px;
+  width: 95px;
+  color: #d5375c;
+  }
+  .slide-main-right img{
+    height: 370px;
+    width: 400px;
+  }
+  .cart-up-text h1{
+    font-weight: 600;
+    margin-top: 45px;
+    margin-left: 105px
+
+  }
+  .cart{
+    height: 500px;
+    width: 400px;
+    border: 1px solid rgb(233, 237, 235);
+    border-radius: 12px;
+    background-color: rgb(233, 237, 235);
+ 
+  }
+  .cart .image-cart{
+    background: url(../image/connect-eSIM-desktop.png);
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 400px;
+    display: flex;
+    border-radius: 12px;
+  }
+  .image-cart img{
+    height: 120px;
+    width: 120px;
+    margin-left: 50px;
+    padding-top: 30px;
+ 
+  }
+.image-cart h2{
+    padding-top: 40px;
+    color: white;
+    font-weight: 450;
+
+}
+.image-cart h3{
+    border: 1px solid white;
+    border-radius: 15px;
+    color: white;
+}
+.cart-main .progress-bar{
+    height: 7px;
+    padding-top: 100px;
+   
+}
+.progress-one-text{
+    display: flex;
+}
+.progress-one-text i{
+padding-top: 10px;
+}
+.progress-one-text h4{
+    padding-left: 25px;
+}
+.progress-two-text{
+    display: flex;
+}
+.progress-two-text i{
+padding-top: 10px;
+}
+.progress-two-text h4{
+    padding-left: 25px;
+}
+.card-offer{
+    margin-top: 20px;
+    display: flex;
+    border: 1px solid rgb(159, 155, 147);
+    background-color:  rgb(191, 188, 183);
+}
+.card-offer i{
+   font-size: 30px;
+   margin-left: 15px;
+}
+.bonus{
+    display: flex;
+    border: 1px solid rgb(159, 155, 147);
+    background-color:  rgb(191, 188, 183);
+    margin-top: 10px;
+}
+.bonus i{
+    font-size: 30px;
+    margin-left: 15px;
+   
+}
+.detailed button{
+    height: 50px;
+    width: 200px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.number-card{
+    margin-top: 60px;
+    border: 1px solid rgb(233, 237, 235);
+    height: 450px;
+    width: 615px;
+    background-color: rgb(233, 237, 235);
+    border-radius: 15px;
+}
+.number-card span{
+    margin-left: 30px;
+}
+.number-card h3{
+    font-weight: 450;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-left: 30px;
+    
+}
+.number-card h4{
+    border: 1px solid rgb(214, 215, 215);
+    height: 60px;
+    width: 350px;
+    background-color: rgb(214, 215, 215);
+    border-radius: 14px;
+    padding-left: 30px;
+    padding-top: 15px;
+    margin-left: 30px;
+}
+.number-card button{
+    border: 1px solid #d5375c;
+    background-color: #d5375c;
+    height: 60px;
+    width: 100px;
+    border-radius: 15px;
+    color: black;
+    font-weight: 400;
+    margin-left: 30px;
+}
+
